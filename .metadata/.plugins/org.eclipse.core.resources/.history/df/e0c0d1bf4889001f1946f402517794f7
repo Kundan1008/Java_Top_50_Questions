@@ -1,0 +1,8 @@
+//Java prg to check if vowel is present in a string
+public class Program3 {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner()
+	}
+
+}
